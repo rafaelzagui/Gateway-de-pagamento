@@ -25,7 +25,7 @@ constructor(paymentProvider)
        const codeClient  = uuidv4()
       const items ={
         amount: cart.price,
-        description:'Carrinho de compras GW',
+        description:'Carrinho de compras ',
         quantity: 1,
         code:  cart
       }
